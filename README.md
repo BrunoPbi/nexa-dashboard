@@ -1,5 +1,4 @@
 # nexa-dashboard
- Interactive Business Intelligence Dashboard
 
 NEXA — Business Intelligence Dashboard
 
